@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Mintable-Demo/static/css/main.98c74245.css",
+    "main.js": "/Mintable-Demo/static/js/main.7741ae7c.js",
+    "static/js/787.42370bf7.chunk.js": "/Mintable-Demo/static/js/787.42370bf7.chunk.js",
+    "static/media/background.png": "/Mintable-Demo/static/media/background.5152f7ca74e7b950a7b4.png",
+    "static/media/image.png": "/Mintable-Demo/static/media/image.2864f0846b056ea7eae8.png",
+    "static/media/super3.png": "/Mintable-Demo/static/media/super3.190d195b791351c19c67.png",
+    "static/media/Store4.png": "/Mintable-Demo/static/media/Store4.ae98a654107175bf84b2.png",
+    "static/media/Store2.png": "/Mintable-Demo/static/media/Store2.97b0f93f059dab722bf3.png",
+    "static/media/Store3.png": "/Mintable-Demo/static/media/Store3.5960cfbc81a349253e18.png",
+    "static/media/super2.png": "/Mintable-Demo/static/media/super2.3dd3ef03cdf3bdd7f265.png",
+    "static/media/super4.png": "/Mintable-Demo/static/media/super4.a633d63db01c9d28354d.png",
+    "static/media/super1.png": "/Mintable-Demo/static/media/super1.4fe6bf2fcf03d58aa2ed.png",
+    "static/media/Store1.png": "/Mintable-Demo/static/media/Store1.0abb0b42c5c5612316bd.png",
+    "static/media/how_promote.png": "/Mintable-Demo/static/media/how_promote.c4ebea7e2b68b8ebd193.png",
+    "static/media/how_sell.png": "/Mintable-Demo/static/media/how_sell.3e1e7442f4f78ec29993.png",
+    "static/media/ts1.png": "/Mintable-Demo/static/media/ts1.155c1073fe364911c810.png",
+    "static/media/ts3.png": "/Mintable-Demo/static/media/ts3.8598db29fd91110c3ab6.png",
+    "static/media/ts6.png": "/Mintable-Demo/static/media/ts6.73baabf55a8d7a017fe0.png",
+    "static/media/ts7.png": "/Mintable-Demo/static/media/ts7.408dca3a67be7613d305.png",
+    "static/media/what_are.png": "/Mintable-Demo/static/media/what_are.288328b3b383fdb04ee7.png",
+    "static/media/ts2.png": "/Mintable-Demo/static/media/ts2.7d3c3cc2283b353a6a35.png",
+    "static/media/dp1.png": "/Mintable-Demo/static/media/dp1.978caef2cba2a808ae30.png",
+    "static/media/mintable.svg": "/Mintable-Demo/static/media/mintable.bf39ab1e6dfa4a59010259cee4cfe616.svg",
+    "static/media/ts4.png": "/Mintable-Demo/static/media/ts4.9a5e18731a26a573d79d.png",
+    "static/media/create_store.png": "/Mintable-Demo/static/media/create_store.714dc5290f6accc823fc.png",
+    "static/media/ts8.png": "/Mintable-Demo/static/media/ts8.4e80782a30dfb7a0ea12.png",
+    "static/media/logo.svg": "/Mintable-Demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/Mintable-Demo/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Mintable-Demo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Mintable-Demo/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Mintable-Demo/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Mintable-Demo/index.html",
+    "main.98c74245.css.map": "/Mintable-Demo/static/css/main.98c74245.css.map",
+    "main.7741ae7c.js.map": "/Mintable-Demo/static/js/main.7741ae7c.js.map",
+    "787.42370bf7.chunk.js.map": "/Mintable-Demo/static/js/787.42370bf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c74245.css",
+    "static/js/main.7741ae7c.js"
+  ]
+}
