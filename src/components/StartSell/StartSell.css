@@ -1,0 +1,42 @@
+.start-sell-container{
+  margin-top: 30px;
+  background-image: url("./Image/background.png");
+  height: 50vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.start-sell-title{
+  padding-top: 20px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.start-sell-description{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.sell-sublines1{
+  font-weight: bold;
+  padding-top: 190px;
+  padding-left: 150px;
+}
+.sell-sublines2{
+  font-weight: bold;
+  padding-top: 190px;
+   
+}
+.sell-sublines3{
+  font-weight: bold;
+  padding-top: 190px;
+  
+}
+.sell-button{
+  margin-top: 200px;
+  padding: 5px 50px;
+  font-weight: bold;
+}
+

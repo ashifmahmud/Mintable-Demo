@@ -1,0 +1,49 @@
+.collection-card{
+  width: max-content;
+  
+  margin-bottom: 100px;
+  margin-left: 15px;
+  padding: 20px;
+  
+}
+
+.collection-card-content{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 0px 0px 20px 20px;
+}
+
+.card-sub-details{
+  padding: 0px 30px 30px;
+}
+
+.cover-image{
+  
+  width: 350px;
+  border-radius: 20px 20px 0px 0px;
+  
+  
+}
+
+.collection-card-heading{
+  font-size: 25px;
+  font-weight: bold;
+}
+.card-status{
+  font-weight: 500;
+  color: rgb(46, 46, 245);
+ 
+}
+
+.card-dp{
+  text-align: center;
+  padding-left: 130px;
+  margin: -40px 0px 10px 0px;
+}
+.collection-card-image{
+  border-radius: 10px;
+}
+
+.card-link{
+  text-decoration: none;
+  color: black;
+}

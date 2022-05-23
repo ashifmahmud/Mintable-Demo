@@ -1,0 +1,40 @@
+.seller-btn{
+  width: 300px;
+  border-radius: 10px;
+  color: black;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.ts-dp{
+  margin: 10px;
+}
+.ts-sub-detail{
+  padding: 10px;
+}
+.ts-id{
+  font-weight: bold;
+}
+
+.ts-points-count{
+  color: gray;
+  font-weight: bold;
+}
+.ts-items{
+  font-size: 12px;
+  color: gray;
+}
+
+.ts-item-count{
+  padding-top: 7px;
+}
+
+.ts-view-count{
+  padding-top: 7px;
+}
+
+.ts-views{
+  font-size: 12px;
+  color: gray;
+}

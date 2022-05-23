@@ -1,0 +1,37 @@
+.card{
+  width: max-content;
+  border-radius: 1rem; 
+  margin: 10px ;
+}
+
+.card-content{
+  padding: 10px 10px;
+}
+
+.card-title{
+  font-size: 20px;
+}
+
+.owner{
+  padding-left: 5px;
+  font-size: 15px;
+  color: gray;
+
+}
+.owner-name{
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+.price{
+  font-size: 20px;
+  padding-left: 5px;
+}
+
+.card-heading{
+  text-align: left;
+ 
+  font-size: 12px;
+  font-weight: 500;
+  color: rgb(102, 102, 102);
+}

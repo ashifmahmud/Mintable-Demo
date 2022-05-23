@@ -1,0 +1,13 @@
+.template{
+  background: white;
+  width: 250px;
+  margin: 15px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 7px;
+  text-align: left;
+
+}
+
+.cat-img{
+  margin-right: 13px;
+}

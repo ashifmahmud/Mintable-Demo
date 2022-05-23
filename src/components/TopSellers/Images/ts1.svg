@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Layer_1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 200 200"
+	 style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{mask:url(#avatarsRadiusMask_1_);}
+	.st2{fill:#EDB98A;}
+	.st3{fill:#A7FFC4;}
+	.st4{fill:#FFFFFF;fill-opacity:0.75;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.7;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.16;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.6;}
+	.st8{fill-opacity:0.16;}
+</style>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="0" y="0" width="200" height="200" id="avatarsRadiusMask_1_">
+	<rect y="0" class="st0" width="200" height="200"/>
+</mask>
+<g class="st1">
+	<rect y="0" width="200" height="200"/>
+	<g transform="translate(40, 36)">
+		<path class="st2" d="M60-10.3c-22.1,0-40,17.9-40,40v4.4c-4.1,0.7-7.1,4.2-7.1,8.5v10c0,4.3,3.2,7.9,7.4,8.5
+			c1.5,14.1,10.3,26.1,22.6,32v13.1H40c-28.4,0-51.4,23-51.4,51.4v6.4h142.9v-6.4c0-28.4-23-51.4-51.4-51.4h-2.9V93
+			c12.3-5.8,21.2-17.8,22.6-32c4.2-0.6,7.4-4.2,7.4-8.5v-10c0-4.2-3.1-7.8-7.1-8.5v-4.4C100,7.6,82.1-10.3,60-10.3z"/>
+		<path class="st2" d="M-11.4-10.3"/>
+	</g>
+	<g transform="translate(8, 170)">
+		<path class="st3" d="M69.4-27.8c1.3-2,3.2-3.9,5.4-5.4v10.9c0,4.2,2.8,7.8,7.2,10.1l-0.1,0l0.6,2c2.8,1.4,6,2.2,9.4,2.2
+			c3.4,0,6.6-0.8,9.4-2.2l0.6-2l-0.1,0c4.4-2.2,7.2-5.9,7.2-10.1v-10.4c1.9,1.4,3.5,3.1,4.7,4.9c27.5,1,49.6,23.6,49.6,51.4V30H20.6
+			v-6.4C20.6-3.9,42.2-26.4,69.4-27.8L69.4-27.8z"/>
+		<path class="st4" d="M74.9-33.2C70-29.9,67-25.2,67-20c0,5.3,3.1,10,8.1,13.3l4.4-3.4l3.3,0.2L82-12.1l0.1,0
+			c-4.4-2.2-7.2-5.9-7.2-10.1V-33.2L74.9-33.2z M109.1-22.2c0,4.2-2.8,7.8-7.2,10.1l0.1,0l-0.7,2.3l3.3-0.2l4,3.2
+			c4.7-3.3,7.7-7.9,7.7-13.1c0-4.9-2.7-9.4-7.1-12.7V-22.2z"/>
+	</g>
+	<g transform="translate(86, 134)">
+		<path class="st5" d="M0.5-27.5C1.3-20.7,7-15.4,14-15.4c7,0,12.8-5.3,13.5-12.1c0.1-0.5-0.6-1.5-1.3-1.5H1.9
+			C1.1-29,0.4-28.2,0.5-27.5z"/>
+		<path class="st5" d="M-24.6-38.3"/>
+		<path class="st5" d="M-24.6-38.3"/>
+	</g>
+	<g transform="translate(112, 122)">
+		<path class="st6" d="M-20.6-29.1c0,3.2,3.8,5.7,8.6,5.7s8.6-2.6,8.6-5.7"/>
+	</g>
+	<g transform="translate(84, 90)">
+		<path class="st6" d="M-24-25.7"/>
+		<path class="st7" d="M26.4-7.9c1.1-2.8,4-4.9,7.4-5.1c3.4-0.2,6.5,1.4,8,4c0.4,0.8-0.1,1.5-0.7,1c-1.9-1.4-4.4-2.1-7.1-2
+			c-2.7,0.2-5,1.2-6.7,2.8C26.8-6.6,26.1-7.1,26.4-7.9L26.4-7.9z"/>
+	</g>
+	<g transform="translate(84, 82)">
+		<path class="st7" d="M7.5-11.2C7.5-11.2,7.5-11.2,7.5-11.2z M-10.2-19.9c-1.7-0.2-3.5,0.4-4.6,1.7c-0.4,0.5-1.1,1.8-1.1,2.4
+			c0,0.3,0.2,0.3,0.8,0.4c1.2,0.3,3.2-0.8,4.5-0.7c1.8,0.1,3.6,1,5.2,1.9c2.7,1.6,6,4.9,9.4,4.7c0.3,0,3.9-1.2,3.1-1.9
+			c-0.2-0.3-2.2-0.8-2.5-1C3.1-13,1.5-14,0-14.9C-3.2-16.9-6.3-19.4-10.2-19.9z M24.6-11.2C24.6-11.2,24.6-11.2,24.6-11.2z
+			 M42.4-19.9c1.7-0.2,3.5,0.4,4.6,1.7c0.4,0.5,1.1,1.8,1.1,2.4c0,0.3-0.2,0.3-0.8,0.4C46.1-15,44-16,42.7-15.9
+			c-1.8,0.1-3.6,1-5.2,1.9c-2.7,1.6-6,4.9-9.4,4.7c-0.3,0-3.9-1.2-3.2-1.9c0.2-0.3,2.2-0.8,2.5-1c1.6-0.8,3.1-1.7,4.6-2.7
+			C35.3-16.9,38.5-19.4,42.4-19.9z"/>
+	</g>
+	<g transform="translate(7, 0)">
+		<path class="st7" d="M-2,0"/>
+		<path class="st8" d="M45.9,80.7c7.8-16.2,24.8-22.6,39.6-28.1c9.5-3.6,18.1-6.8,22.8-12c1.6,1.4,3.4,2.9,5.3,4.4
+			c7.3,5.8,15.9,12.8,19.4,24.9c-3.3-10-11.3-15.2-18.3-19.7c-2.3-1.5-4.5-2.9-6.4-4.4c-4.7,4.6-13.3,7.4-22.8,10.5
+			C70.6,61.1,53.6,66.6,45.9,80.7z"/>
+	</g>
+</g>
+</svg>

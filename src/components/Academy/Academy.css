@@ -1,0 +1,24 @@
+.academy-img{
+  margin: 50px 10px;
+}
+
+.academy-title{
+  margin-top: 20px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.academy-subtitle{
+  
+  font-weight: bold;
+}
+
+.academy-container{
+  margin: 0px 0px 150px 0px;
+}
+
+.academy-a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
